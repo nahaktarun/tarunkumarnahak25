@@ -101,7 +101,7 @@
 </a>  
 
 
-<a href=https://github.com/tarunkumarnahak25/bulldozer-price-prediction-project">
+<a href="https://github.com/tarunkumarnahak25/bulldozer-price-prediction-project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tarunkumarnahak25&repo=bulldozer-price-prediction-project&theme=onedark" />
 </a> 
